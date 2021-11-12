@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "LLzoRGY+zYOQc4Zi/OXIi6XyrrkfxrWCPC5iA2zBBqzTmm3ajhppxTyG9lrX5OA/UBd4876JVjFG7HYPWlk4jA==",
+  "dgSpecHash": "3kj1x6fbrm7akIcMgsz5QgmaYde1en7TqjVv/SMh8tvjkwUiImMHSt/aOxy8m2KElXX0kAYIPGM7xrUYj0Op4Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\alex_\\source\\repos\\Classification.of.iris.flower\\Application\\Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\alex_\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
     "C:\\Users\\alex_\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.0\\microsoft.entityframeworkcore.6.0.0.nupkg.sha512",
     "C:\\Users\\alex_\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.0\\microsoft.entityframeworkcore.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\alex_\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.0\\microsoft.entityframeworkcore.analyzers.6.0.0.nupkg.sha512",

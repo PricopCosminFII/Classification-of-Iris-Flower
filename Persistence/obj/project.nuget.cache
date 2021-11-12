@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "AFvKSbnQcIiAu6zIwdSzA1eDEhBC6cYKv0tY5t0lSSTAN1ZSjN2p1fjKZPbiPMpLd97vEk/7KqOb3aVxB5XKCA==",
+  "dgSpecHash": "F9U5aw/WxhJmdmwexU/S64PF+ZTe6MZ7shAeCCocpohowXrnOsEak8SQCg/cb0fiRX5lrXQlpW0ySI4b4oVyPA==",
   "success": true,
   "projectFilePath": "C:\\Users\\alex_\\source\\repos\\Classification.of.iris.flower\\Persistence\\Persistence.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\alex_\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
     "C:\\Users\\alex_\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\alex_\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
     "C:\\Users\\alex_\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.0.1\\microsoft.data.sqlclient.sni.runtime.2.0.1.nupkg.sha512",
