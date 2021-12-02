@@ -540,19 +540,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\alex_\\.nuget\\packages\\": {}
+    "C:\\Users\\prico\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alex_\\source\\repos\\Classification.of.iris.flower\\Application\\Application.csproj",
+      "projectUniqueName": "C:\\Users\\prico\\Desktop\\Classification-of-Iris-Flower\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "C:\\Users\\alex_\\source\\repos\\Classification.of.iris.flower\\Application\\Application.csproj",
-      "packagesPath": "C:\\Users\\alex_\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alex_\\source\\repos\\Classification.of.iris.flower\\Application\\obj\\",
+      "projectPath": "C:\\Users\\prico\\Desktop\\Classification-of-Iris-Flower\\Application\\Application.csproj",
+      "packagesPath": "C:\\Users\\prico\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\prico\\Desktop\\Classification-of-Iris-Flower\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\alex_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\prico\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -566,8 +566,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\alex_\\source\\repos\\Classification.of.iris.flower\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\alex_\\source\\repos\\Classification.of.iris.flower\\Domain\\Domain.csproj"
+            "C:\\Users\\prico\\Desktop\\Classification-of-Iris-Flower\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\prico\\Desktop\\Classification-of-Iris-Flower\\Domain\\Domain.csproj"
             }
           }
         }

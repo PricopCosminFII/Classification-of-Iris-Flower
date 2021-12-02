@@ -5949,19 +5949,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\alex_\\.nuget\\packages\\": {}
+    "C:\\Users\\prico\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alex_\\source\\repos\\Classification.of.iris.flower\\WebAPI\\WebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\prico\\Desktop\\Classification-of-Iris-Flower\\WebAPI\\WebAPI.csproj",
       "projectName": "WebAPI",
-      "projectPath": "C:\\Users\\alex_\\source\\repos\\Classification.of.iris.flower\\WebAPI\\WebAPI.csproj",
-      "packagesPath": "C:\\Users\\alex_\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alex_\\source\\repos\\Classification.of.iris.flower\\WebAPI\\obj\\",
+      "projectPath": "C:\\Users\\prico\\Desktop\\Classification-of-Iris-Flower\\WebAPI\\WebAPI.csproj",
+      "packagesPath": "C:\\Users\\prico\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\prico\\Desktop\\Classification-of-Iris-Flower\\WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\alex_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\prico\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5975,11 +5975,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\alex_\\source\\repos\\Classification.of.iris.flower\\Application\\Application.csproj": {
-              "projectPath": "C:\\Users\\alex_\\source\\repos\\Classification.of.iris.flower\\Application\\Application.csproj"
+            "C:\\Users\\prico\\Desktop\\Classification-of-Iris-Flower\\Application\\Application.csproj": {
+              "projectPath": "C:\\Users\\prico\\Desktop\\Classification-of-Iris-Flower\\Application\\Application.csproj"
             },
-            "C:\\Users\\alex_\\source\\repos\\Classification.of.iris.flower\\Persistence\\Persistence.csproj": {
-              "projectPath": "C:\\Users\\alex_\\source\\repos\\Classification.of.iris.flower\\Persistence\\Persistence.csproj"
+            "C:\\Users\\prico\\Desktop\\Classification-of-Iris-Flower\\Persistence\\Persistence.csproj": {
+              "projectPath": "C:\\Users\\prico\\Desktop\\Classification-of-Iris-Flower\\Persistence\\Persistence.csproj"
             }
           }
         }
