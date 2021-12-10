@@ -568,19 +568,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\prico\\.nuget\\packages\\": {}
+    "C:\\Users\\imariciuc\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\prico\\Desktop\\Classification-of-Iris-Flower\\Application\\Application.csproj",
+      "projectUniqueName": "C:\\Users\\imariciuc\\Documents\\GitHub\\Classification-of-Iris-Flower\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "C:\\Users\\prico\\Desktop\\Classification-of-Iris-Flower\\Application\\Application.csproj",
-      "packagesPath": "C:\\Users\\prico\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\prico\\Desktop\\Classification-of-Iris-Flower\\Application\\obj\\",
+      "projectPath": "C:\\Users\\imariciuc\\Documents\\GitHub\\Classification-of-Iris-Flower\\Application\\Application.csproj",
+      "packagesPath": "C:\\Users\\imariciuc\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\imariciuc\\Documents\\GitHub\\Classification-of-Iris-Flower\\Application\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\prico\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\imariciuc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -594,8 +599,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\prico\\Desktop\\Classification-of-Iris-Flower\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\prico\\Desktop\\Classification-of-Iris-Flower\\Domain\\Domain.csproj"
+            "C:\\Users\\imariciuc\\Documents\\GitHub\\Classification-of-Iris-Flower\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\imariciuc\\Documents\\GitHub\\Classification-of-Iris-Flower\\Domain\\Domain.csproj"
             }
           }
         }
@@ -637,5 +642,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\imariciuc\\Documents\\GitHub\\Classification-of-Iris-Flower\\Application\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
